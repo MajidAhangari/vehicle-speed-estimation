@@ -1,4 +1,9 @@
+
+python yolo_nas_example.py --source_video_path /Users/majidahangari/env/supervision/examples/speed_estimation/data/vehicles.mp4 --target_video_path /Users/majidahangari/env/supervision/examples/speed_estimation/data/output.mp4
+
+
 # speed estimation
+
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-estimate-vehicle-speed-with-computer-vision.ipynb)
 [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/uWP6UjDeZvY)
